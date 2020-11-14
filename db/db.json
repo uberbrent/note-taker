@@ -1,1 +1,12 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+  {
+    "title": "Playstation 5",
+    "text": "Play the Playstation 5",
+    "id": "9zvhsmdrokhi1rfgb"
+  },
+  {
+    "title": "Xbox Series X",
+    "text": "Play the Xbox Series X",
+    "id": "9zvhsmdrokhi1rv3d"
+  }
+]
